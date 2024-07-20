@@ -127,6 +127,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://ec2-18-222-214-239.us-east-2.compute.amazonaws.com",
     "http://ec2-18-222-214-239.us-east-2.compute.amazonaws.com",
     "http://18.222.214.239:3000"
+    "https://18.222.214.239:3000"
 ]
 
 WEATHER_API_KEY = '3e31f033f5d0f356cbc3d51d5c0e828d'
